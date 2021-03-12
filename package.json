@@ -31,7 +31,7 @@
     "test:coverage": "jest --coverage"
   },
   "dependencies": {
-    "react-html-parser": "2.0.2"
+    "react-html-parser": "github:thylsky/react-html-parser"
   },
   "peerDependencies": {
     "react": ">=16.12.0"
